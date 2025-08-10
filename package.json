@@ -1,0 +1,20 @@
+{
+  "name": "cinema-manager-sql",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/0xInterruptHandler/CinemaManagerSQL-API-para-gestion-de-cines-y-reservas#readme",
+  "bugs": {
+    "url": "https://github.com/0xInterruptHandler/CinemaManagerSQL-API-para-gestion-de-cines-y-reservas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xInterruptHandler/CinemaManagerSQL-API-para-gestion-de-cines-y-reservas.git"
+  },
+  "license": "ISC",
+  "author": "0xInterruptHandler",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
